@@ -98,17 +98,18 @@ The database contains **5–6 pre-inserted records** for testing and demonstrati
 
 Screenshots included in the repository:
 - Home Page
-<img width="1920" height="1080" alt="Screenshot (285)" src="https://github.com/user-attachments/assets/28cef7e6-2597-46cf-bb93-7fbc5453b720" />
-<img width="1920" height="1080" alt="Screenshot (286)" src="https://github.com/user-attachments/assets/8c0000e6-c21c-4efa-aff5-6a0b788c2087" />
+<img width="1920" height="1000" alt="Screenshot (285)" src="https://github.com/user-attachments/assets/67e98837-8307-4727-b914-ffd2b3a9c447" />
+<img width="1920" height="994" alt="Screenshot (286)" src="https://github.com/user-attachments/assets/b37aec20-e916-4222-abd7-ceb672c11be1" />
 
 - View Clients Page
-<img width="1920" height="1080" alt="Screenshot (288)" src="https://github.com/user-attachments/assets/1bf0fe1c-b8fe-4691-8983-8d05fd8d75c7" />
+<img width="1920" height="957" alt="Screenshot (288)" src="https://github.com/user-attachments/assets/b55f873f-5f4a-4512-b018-3dd6df6eb7ad" />
 
 - Add New Client Page
-<img width="1920" height="1080" alt="Screenshot (289)" src="https://github.com/user-attachments/assets/0f7476a8-401e-45da-9027-cba9ff96928d" />
+<img width="1920" height="996" alt="Screenshot (289)" src="https://github.com/user-attachments/assets/c921a09b-fe5f-4354-b887-5e0945152199" />
 
 - Contact Us Page
-<img width="1920" height="1080" alt="Screenshot (287)" src="https://github.com/user-attachments/assets/460b242b-214f-4439-8284-fa372bce73ca" />
+<img width="1920" height="936" alt="Screenshot (287)" src="https://github.com/user-attachments/assets/d86bae0c-03f4-4a21-a2bb-73394a1e4ad2" />
+
 
 
 ## ▶️ How to Run the Project
